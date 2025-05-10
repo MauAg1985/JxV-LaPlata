@@ -1,5 +1,94 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Discrepancias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "testimonios"
+        }
+      ],
+      "uuid": "9c6e40de-619c-4543-a764-48d2b0b4cb59"
+    },
+    {
+      "start_time": 635,
+      "end_time": 1168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Careo"
+        }
+      ],
+      "uuid": "62d5e23b-6652-4330-8cf5-2bf8520fdf49"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Memoria deficiente"
+        }
+      ],
+      "uuid": "7081d44c-e8b6-48a8-9eff-30d56e0064b1"
+    },
+    {
+      "start_time": 1763,
+      "end_time": 2491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Companeros de trabajo"
+        }
+      ],
+      "uuid": "5da472bc-ac45-45be-ba21-cdd06a17490b"
+    }
+  ],
   "set": "Default",
   "event_id": "3a1d4023-3d62-43ea-9e5d-2937610404ce",
   "source_id": "9411727e-a861-4016-aa30-a0c726b51b7a"
