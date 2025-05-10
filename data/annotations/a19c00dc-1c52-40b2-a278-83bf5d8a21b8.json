@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparicion de personas"
+        }
+      ],
+      "uuid": "18a9df15-ca0a-4d85-ab56-f62a9456c616"
+    }
+  ],
   "set": "Default",
   "event_id": "4375aeb5-a7e2-44f9-8fb2-1ae00448662a",
   "source_id": "9e9349d3-bebf-463f-a77a-890c5557e005"
