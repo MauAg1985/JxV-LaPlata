@@ -1,5 +1,244 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reclamos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia"
+        }
+      ],
+      "uuid": "daec679a-250b-4611-9c19-c6d1b775e1fa"
+    },
+    {
+      "start_time": 879,
+      "end_time": 2556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Familiares"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "personas detenidas desaparecidas"
+        }
+      ],
+      "uuid": "e88034d2-ed81-4597-97e7-d7fafb3eff39"
+    },
+    {
+      "start_time": 2558,
+      "end_time": 3990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seudonimos"
+        }
+      ],
+      "uuid": "231f556e-5aa4-4eea-9f47-8a3c40638c8a"
+    },
+    {
+      "start_time": 3990,
+      "end_time": 5211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "torturadores"
+        }
+      ],
+      "uuid": "d6bf3788-14c5-4b2e-8add-e941c3eaa5ad"
+    },
+    {
+      "start_time": 5212,
+      "end_time": 6119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparicion forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estudiantes"
+        }
+      ],
+      "uuid": "490f7f35-2694-4bbd-a85b-e6b56b7e62b7"
+    },
+    {
+      "start_time": 6228,
+      "end_time": 7141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Grupo de tareas"
+        }
+      ],
+      "uuid": "80179bb5-3529-41a8-ac38-246c7d1f9430"
+    },
+    {
+      "start_time": 7141,
+      "end_time": 7654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reconocimiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "centro clandestino de detencion"
+        }
+      ],
+      "uuid": "79803134-e21a-42c1-955c-579d68f3023e"
+    },
+    {
+      "start_time": 7654,
+      "end_time": 8304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Militancia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estudiantes"
+        }
+      ],
+      "uuid": "f80d7a88-e333-4d31-9b4e-642ee7f89097"
+    },
+    {
+      "start_time": 8307,
+      "end_time": 9605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Militancia universitaria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estudiantes"
+        }
+      ],
+      "uuid": "da43f0b4-68f7-40f8-8120-dec3ae1fddd4"
+    },
+    {
+      "start_time": 9606,
+      "end_time": 10467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Informacion de paradero"
+        }
+      ],
+      "uuid": "ea0db0f8-1093-4216-909e-1c6cec1aebf5"
+    }
+  ],
   "set": "Default",
   "event_id": "88b83c92-fc7c-4dd7-9f16-0c4c83b9ca79",
   "source_id": "32b0a75b-a8c6-4590-bbb9-837809398110"
