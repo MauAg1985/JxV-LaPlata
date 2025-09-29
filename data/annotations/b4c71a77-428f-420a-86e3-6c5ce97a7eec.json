@@ -1,5 +1,300 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Organizaciones sindicales"
+        }
+      ],
+      "uuid": "f4cc61df-ab05-4a91-96ee-1a2f9280aa59"
+    },
+    {
+      "start_time": 648,
+      "end_time": 1192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Trabajadores detenidos desaparecidos"
+        }
+      ],
+      "uuid": "a061b403-9343-43a6-bbce-6effe3d0443a"
+    },
+    {
+      "start_time": 1192,
+      "end_time": 1877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Habeas corpus"
+        }
+      ],
+      "uuid": "453fd2a5-9ca8-41fa-b08e-d00b2faba803"
+    },
+    {
+      "start_time": 1878,
+      "end_time": 2482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Liberacion de zonas"
+        }
+      ],
+      "uuid": "3ebd20e0-3d25-4620-a83d-410669f8ecbc"
+    },
+    {
+      "start_time": 2482,
+      "end_time": 2805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vuelos de la muerte"
+        }
+      ],
+      "uuid": "c83b23b0-5a17-4e33-ba1a-cdad85595622"
+    },
+    {
+      "start_time": 2821,
+      "end_time": 4608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Habeas corpus"
+        }
+      ],
+      "uuid": "9432373e-2a41-4605-ba09-9f0c82a732c0"
+    },
+    {
+      "start_time": 4610,
+      "end_time": 5269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Militancia de estudiantes secundarios"
+        }
+      ],
+      "uuid": "040b61c5-270d-4919-bc05-772d2c448f82"
+    },
+    {
+      "start_time": 5269,
+      "end_time": 5963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Condiciones de cautiverio"
+        }
+      ],
+      "uuid": "774d8e94-bf41-4ad6-af80-7a88c989b4f1"
+    },
+    {
+      "start_time": 5965,
+      "end_time": 6552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Busqueda de informacion"
+        }
+      ],
+      "uuid": "fbbeeeda-81ec-4ea5-8c78-de2d3c40d623"
+    },
+    {
+      "start_time": 6553,
+      "end_time": 7184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Trafico de menores"
+        }
+      ],
+      "uuid": "45fc80cc-ac1a-4dd6-8623-887de3ba5d23"
+    },
+    {
+      "start_time": 7184,
+      "end_time": 7751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manipulacion de informacion"
+        }
+      ],
+      "uuid": "b314355c-55f9-482c-900b-36a8c425eed9"
+    },
+    {
+      "start_time": 7755,
+      "end_time": 9012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mujeres detenidas desaparecidas"
+        }
+      ],
+      "uuid": "b5785887-39a0-4cef-b593-d09eeaf9b891"
+    },
+    {
+      "start_time": 9012,
+      "end_time": 9827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Averiguacion de paradero"
+        }
+      ],
+      "uuid": "5fcd8531-e629-4efc-8640-6c615433ea1e"
+    },
+    {
+      "start_time": 9827,
+      "end_time": 10559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pedido de infromacion pública"
+        }
+      ],
+      "uuid": "ebf8d594-4e94-46cc-a516-eb60ca4d8ed1"
+    }
+  ],
   "set": "Default",
   "event_id": "46a6a3e4-66da-41b5-b75c-97349828afc2",
   "source_id": "bf857aaa-c01e-48cc-aa09-c6a3fa9e18fa"
