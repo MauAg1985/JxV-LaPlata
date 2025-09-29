@@ -1,5 +1,267 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "organizacion de estados americanos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "liberacion de detenidos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "busqueda de paradero"
+        }
+      ],
+      "uuid": "494f66d1-a77b-4c2c-add0-90542beea5ae"
+    },
+    {
+      "start_time": 655,
+      "end_time": 1619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "movimiento sindical"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajadores"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "representantes gremiales"
+        }
+      ],
+      "uuid": "8bebca50-f399-4d8d-aeaa-778e33a54d97"
+    },
+    {
+      "start_time": 1619,
+      "end_time": 2150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "militancia politica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "habeas corpus"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "grupo de tareas"
+        }
+      ],
+      "uuid": "b549185d-9735-4a60-b3c6-dc62ca4ba414"
+    },
+    {
+      "start_time": 2151,
+      "end_time": 2822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "medios de comunicacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "familiares de personas detenidas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerzas policiales"
+        }
+      ],
+      "uuid": "234728f7-29e2-45dc-8135-54c8ce78d092"
+    },
+    {
+      "start_time": 2822,
+      "end_time": 3399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "amenazas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desinformacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar argentina"
+        }
+      ],
+      "uuid": "c9bd3e49-9964-443d-bb56-18e145434d84"
+    },
+    {
+      "start_time": 3400,
+      "end_time": 4050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerzas militares"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "represion ilegal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajadores"
+        }
+      ],
+      "uuid": "1be2b71b-5d8f-4a4f-9a06-3613f80381f7"
+    },
+    {
+      "start_time": 4050,
+      "end_time": 4752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "antropologia forense"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "familiares de personas detenidas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "averiguacion de paradero"
+        }
+      ],
+      "uuid": "a9690248-4e2c-4054-8e0e-920dbd832490"
+    },
+    {
+      "start_time": 4753,
+      "end_time": 5516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "averiguacion de paradero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "gremios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desinformacion"
+        }
+      ],
+      "uuid": "46f7e09e-d1f8-48c8-b5d6-4a17e357e76c"
+    },
+    {
+      "start_time": 5516,
+      "end_time": 7026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "torturas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "condiciones de cautiverio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "simulacros de fusilamiento"
+        }
+      ],
+      "uuid": "726c2dbd-8ce5-4bd7-89df-0eb4824813db"
+    }
+  ],
   "set": "Default",
   "event_id": "dcba8408-64d0-4373-b189-dcbe7e267ed1",
   "source_id": "efb6a155-0777-48cf-b0fd-cfd71e8ccf74"
