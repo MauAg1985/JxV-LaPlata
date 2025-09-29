@@ -15,6 +15,531 @@
       ],
       "tags": [],
       "uuid": "f9e2e4f5-f806-4479-85a1-35c596a9b63e"
+    },
+    {
+      "start_time": 4,
+      "end_time": 1203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "delitos de lesa humanidad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desaparicion forzada de personas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "grupos de tareas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "represores"
+        }
+      ],
+      "uuid": "c292b97c-bf61-47e2-85cb-7758aecd95de"
+    },
+    {
+      "start_time": 1204,
+      "end_time": 2489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerzas de seguridad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "familiares de personas detenidas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "averiguacion de paradero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "habeas corpus"
+        }
+      ],
+      "uuid": "80f4bbea-b000-4918-be59-62208f1925d1"
+    },
+    {
+      "start_time": 2489,
+      "end_time": 3023,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sustitucion de identidad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "delitos de lesa humanidad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desaparicion forzada de personas"
+        }
+      ],
+      "uuid": "5fb6e51f-963f-4216-8038-a47f39d1bb36"
+    },
+    {
+      "start_time": 3024,
+      "end_time": 3709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "liberacion de personas detenidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerzas policiales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fotografias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "leyes de impunidad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "peronismo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "militancia politica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerzas militares"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "asesinatos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "acceso a la justicia"
+        }
+      ],
+      "uuid": "0cd37d68-31cd-4ebd-8224-4c4370f71542"
+    },
+    {
+      "start_time": 3712,
+      "end_time": 4256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar argentina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reconocimiento de represores"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "apropiacion de bienes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "memoria historica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "genocidio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "delitos economicos"
+        }
+      ],
+      "uuid": "34501c4b-247d-48bd-b7ae-1bac748f4f75"
+    },
+    {
+      "start_time": 4261,
+      "end_time": 5469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "militancia política"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "abogados detenidos desaparecidos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "derechos laborales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "amenazas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerzas de seguridad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "torturas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "liberacion de detenidos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "asesinato"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "vigilancia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "acceso a la justicia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "partido radical"
+        }
+      ],
+      "uuid": "5782295b-c8c7-47e0-b1ed-d33391f4a5a2"
+    },
+    {
+      "start_time": 5475,
+      "end_time": 6054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "allanamientos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "centro clandestino de detencion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poder Ejecutivo Nacional"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "habeas corpus"
+        }
+      ],
+      "uuid": "f84f2b07-91be-4cb7-bb4e-f3f4b42fc9bf"
+    },
+    {
+      "start_time": 6054,
+      "end_time": 6630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "averiguacion de paradero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "violaciones de derechos humanos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "centro clandestino de detencion"
+        }
+      ],
+      "uuid": "aa57c722-2fdc-4c81-be62-8ba3eeaef2f7"
+    },
+    {
+      "start_time": 6631,
+      "end_time": 7178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "gobierno peruano"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Partido de los Trabajadores"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "familiares de personas detenidas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerzas policiales"
+        }
+      ],
+      "uuid": "8c0a5ab7-6835-4fc3-b358-75885f7d8509"
+    },
+    {
+      "start_time": 7180,
+      "end_time": 7740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "cooperativas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "comunismo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "militancia politica"
+        }
+      ],
+      "uuid": "fe7d85f6-677a-42d1-8f88-1f197e393ae5"
+    },
+    {
+      "start_time": 7741,
+      "end_time": 7746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "medios de comunicacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Servicio Penitenciario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Policia Federal Argentina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Montoneros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "actividades sindicales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "grupos armados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "grupos de izquierda"
+        }
+      ],
+      "uuid": "235ef6bb-78ad-407e-adc1-0816c96d3938"
+    },
+    {
+      "start_time": 7746,
+      "end_time": 10046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dictadura militar argentina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desaparicion forzada de personas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "delitos de lesa humanidad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar argentina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "terrorismo de Estado"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "personas detenidas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "liberacion de detenidos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "asesinatos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerzas de seguridad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "averiguacion de paradero"
+        }
+      ],
+      "uuid": "13589fa8-4953-41ab-9dff-78cdbf2f598a"
+    },
+    {
+      "start_time": 10047,
+      "end_time": 10556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ejercito"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "marina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "abusos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "violaciones de derechos humanos"
+        }
+      ],
+      "uuid": "63df6128-3fb5-4996-b618-b4738c3741d8"
     }
   ],
   "set": "Default",
