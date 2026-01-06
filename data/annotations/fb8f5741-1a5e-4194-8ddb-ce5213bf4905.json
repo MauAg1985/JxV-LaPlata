@@ -1,5 +1,342 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuerpo de bomberos"
+        }
+      ],
+      "uuid": "e88ff0df-8ba1-40a3-8355-da45a939a4f4"
+    },
+    {
+      "start_time": 492,
+      "end_time": 875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Personas detenidas desaparecidas"
+        }
+      ],
+      "uuid": "0f3c8dda-5b80-418a-bcc6-da59dbe35958"
+    },
+    {
+      "start_time": 875,
+      "end_time": 1261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tiroteos"
+        }
+      ],
+      "uuid": "d427d658-5ef1-4133-8637-d593c7005861"
+    },
+    {
+      "start_time": 1262,
+      "end_time": 1664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Incendios"
+        }
+      ],
+      "uuid": "14b7b03f-56d7-4c0e-80a6-0eedeaf588f3"
+    },
+    {
+      "start_time": 1664,
+      "end_time": 2060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Determinacion de responsabilidades"
+        }
+      ],
+      "uuid": "d900e85f-492b-4633-95fe-a44cb66840ce"
+    },
+    {
+      "start_time": 2060,
+      "end_time": 2922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inconsistencias en la declaracion"
+        }
+      ],
+      "uuid": "a7c576fd-e929-4e5c-99e0-4ea0ca84c9f3"
+    },
+    {
+      "start_time": 2922,
+      "end_time": 5314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revista de nombres"
+        }
+      ],
+      "uuid": "b577378c-b7e5-4c19-8e0e-3b3db1a1fa52"
+    },
+    {
+      "start_time": 5422,
+      "end_time": 6537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Incendios"
+        }
+      ],
+      "uuid": "88435721-efea-4dd8-a605-4aefb2387389"
+    },
+    {
+      "start_time": 6539,
+      "end_time": 6869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Detalles sobre incendio y saqueo"
+        }
+      ],
+      "uuid": "b72ae554-64fa-4c48-b281-1e84e14ed15f"
+    },
+    {
+      "start_time": 6960,
+      "end_time": 7204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declarante incurso"
+        }
+      ],
+      "uuid": "7c9b960b-1dbf-4cfa-941a-d083032af78b"
+    },
+    {
+      "start_time": 7204,
+      "end_time": 8164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mujeres detenidas desaparecidas"
+        }
+      ],
+      "uuid": "c0ae79c6-f0e6-4655-bf9f-08e03b8609b8"
+    },
+    {
+      "start_time": 8165,
+      "end_time": 8651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Centro clandestino de detencion"
+        }
+      ],
+      "uuid": "4dac489f-9d31-4c55-b0e5-ff62724c4648"
+    },
+    {
+      "start_time": 8652,
+      "end_time": 9171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reconstruccion del Lugar"
+        }
+      ],
+      "uuid": "c92146dd-93b7-43d2-b7a8-63de654d84bd"
+    },
+    {
+      "start_time": 9174,
+      "end_time": 9436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comparacion con otros CCD"
+        }
+      ],
+      "uuid": "4d630bb8-3fb2-4e0e-b01d-090b860f3c67"
+    },
+    {
+      "start_time": 9460,
+      "end_time": 10296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Descripcion de secuestro"
+        }
+      ],
+      "uuid": "435fae40-06df-4d75-9376-a518c8077385"
+    },
+    {
+      "start_time": 10296,
+      "end_time": 10872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Condiciones de detencion clandestina"
+        }
+      ],
+      "uuid": "65c5bab6-b11b-4ff8-a20a-e1bd12f0a5b0"
+    }
+  ],
   "set": "Default",
   "event_id": "3562faee-e443-4a25-9e5d-ae21d916cc2d",
   "source_id": "443d299a-8f96-416b-a2c3-86c8d0574848"
