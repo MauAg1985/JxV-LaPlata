@@ -1,5 +1,342 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Busqueda de personas desaparecidas"
+        }
+      ],
+      "uuid": "01c8f7ee-36c6-4e38-93d0-27d4d0f2f2b6"
+    },
+    {
+      "start_time": 478,
+      "end_time": 1073,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Militancia gremial"
+        }
+      ],
+      "uuid": "064b5d0d-1bc8-4e29-9efa-6623eb7f7857"
+    },
+    {
+      "start_time": 1073,
+      "end_time": 1611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Condiciones de detencion clandestina"
+        }
+      ],
+      "uuid": "d3b389a5-f858-4406-a799-c4cfd50b336a"
+    },
+    {
+      "start_time": 1611,
+      "end_time": 2315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Detencion y tortura"
+        }
+      ],
+      "uuid": "14091fe9-1e1e-426f-ba17-e7cff24e7475"
+    },
+    {
+      "start_time": 2323,
+      "end_time": 3348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Operaciones de inteligencia"
+        }
+      ],
+      "uuid": "a8c7665d-1747-4602-ac51-7057f07db0ee"
+    },
+    {
+      "start_time": 3348,
+      "end_time": 4004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sistema de informacion de la Policia"
+        }
+      ],
+      "uuid": "8929e9b1-d919-470d-aaf0-a5b4865d2993"
+    },
+    {
+      "start_time": 4004,
+      "end_time": 4633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Grupos de tareas"
+        }
+      ],
+      "uuid": "b4b4ba7a-aaf6-4119-b437-a6a9c614c75d"
+    },
+    {
+      "start_time": 4633,
+      "end_time": 5243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participacion y funciones del testigo"
+        }
+      ],
+      "uuid": "71d19042-58e6-4cb9-820c-936b3cf6acd1"
+    },
+    {
+      "start_time": 5245,
+      "end_time": 5811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archivos y legajos personales"
+        }
+      ],
+      "uuid": "aef28010-ae30-4712-ae78-cbc61a047ed9"
+    },
+    {
+      "start_time": 5812,
+      "end_time": 6455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Direccion de inteligencia"
+        }
+      ],
+      "uuid": "5cde8c18-f2b5-41cd-b1f0-f67d6f40641d"
+    },
+    {
+      "start_time": 6455,
+      "end_time": 6941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cursos de Escuela de Inteligencia"
+        }
+      ],
+      "uuid": "88a5a698-b4f3-481a-ad4a-f2eea0642d77"
+    },
+    {
+      "start_time": 6941,
+      "end_time": 7481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Organigrama de la DIPPBA"
+        }
+      ],
+      "uuid": "fe0250cf-50fd-4b3b-9a66-f2d3c08dd5ca"
+    },
+    {
+      "start_time": 7481,
+      "end_time": 8074,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Organizacion y Funciones"
+        }
+      ],
+      "uuid": "33dc17b1-ccc6-4c90-8cc5-8f476e8e1417"
+    },
+    {
+      "start_time": 8074,
+      "end_time": 8656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Organigrama de la DIPPBA"
+        }
+      ],
+      "uuid": "4f087494-ce6f-442f-a56e-cb3c7fc48320"
+    },
+    {
+      "start_time": 8658,
+      "end_time": 9182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Procedimiento y tiroteo"
+        }
+      ],
+      "uuid": "d2d505c4-d835-4ad6-b42a-0b8824c0257b"
+    },
+    {
+      "start_time": 9183,
+      "end_time": 10064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seguimientos y vigilancia"
+        }
+      ],
+      "uuid": "e80ec0be-8947-4d67-9be8-89bd717d8838"
+    }
+  ],
   "set": "Default",
   "event_id": "c4f35d5a-0f5b-4c0f-8cd8-b6ba0700d03f",
   "source_id": "34c59e0f-9740-45e0-ac05-a7bab620f9d3"
