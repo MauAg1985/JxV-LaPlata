@@ -1,5 +1,279 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1096,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Secuestro y detencion"
+        }
+      ],
+      "uuid": "bce487bb-df8e-4f08-b5ad-0f90a8c5a731"
+    },
+    {
+      "start_time": 1096,
+      "end_time": 2427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Conexiones con represores"
+        }
+      ],
+      "uuid": "d9c7c2c7-7651-42ef-91b4-0abdf7071be0"
+    },
+    {
+      "start_time": 2427,
+      "end_time": 2889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Averiguaciones sobre paradero de desaparecidos"
+        }
+      ],
+      "uuid": "f2dc154f-db07-402b-aaec-a846f9393734"
+    },
+    {
+      "start_time": 2891,
+      "end_time": 3369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pruebas contra represores"
+        }
+      ],
+      "uuid": "5cf06908-d923-442a-8f51-830f4a821f8a"
+    },
+    {
+      "start_time": 3369,
+      "end_time": 3917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Relevancia de organismos de DDHH"
+        }
+      ],
+      "uuid": "bbda5893-6098-40d8-b43c-ba603fd0473a"
+    },
+    {
+      "start_time": 3920,
+      "end_time": 4425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada de personas"
+        }
+      ],
+      "uuid": "13ea70a6-0b5f-4b36-8f96-430f0cf22861"
+    },
+    {
+      "start_time": 4425,
+      "end_time": 4891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identificacion de complices"
+        }
+      ],
+      "uuid": "5b47f1c1-db0d-4f4e-b5a8-8714ce749d51"
+    },
+    {
+      "start_time": 4891,
+      "end_time": 5728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Relevancia de organismos de DDHH"
+        }
+      ],
+      "uuid": "c9900e5a-696e-43e4-8fe6-bcb3b02e6060"
+    },
+    {
+      "start_time": 5728,
+      "end_time": 7166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Responsables de la represion ilegal"
+        }
+      ],
+      "uuid": "6ac36358-80b2-415d-adb8-45d1fb6274ee"
+    },
+    {
+      "start_time": 7167,
+      "end_time": 8345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identificacion de nombres"
+        }
+      ],
+      "uuid": "3ad37ba0-d024-4dc6-ac56-6e43f4363898"
+    },
+    {
+      "start_time": 8351,
+      "end_time": 9159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Historial laboral"
+        }
+      ],
+      "uuid": "739e8cbd-707a-445e-8b49-42f73b862e29"
+    },
+    {
+      "start_time": 9159,
+      "end_time": 9851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Nacimientos en CCD"
+        }
+      ],
+      "uuid": "91bb88d4-637e-40ac-9b2b-77097676e9cd"
+    },
+    {
+      "start_time": 9881,
+      "end_time": 10939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transcripcion bajo proteccion de datos del testigo]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Actividades gremiales"
+        }
+      ],
+      "uuid": "0ef67fc9-f589-4a81-9736-fefc12eff74e"
+    }
+  ],
   "set": "Default",
   "event_id": "9012a07c-2e62-4fef-a2e5-553a969aaebe",
   "source_id": "da0fb126-80cb-4488-a7c4-f162dd978c8c"
