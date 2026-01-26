@@ -2,7 +2,7 @@
   "audiovisual_files": {
     "471cb937-b6f4-45e3-a9c5-4d4982396085": {
       "label": "JXV 1-XI.vtt",
-      "is_offline": false,
+      "is_offline": true,
       "file_type": "Video",
       "duration": 3771
     }
@@ -11,6 +11,9 @@
   "label": "JXV 1-XI.vtt",
   "created_at": "2026-01-06T17:28:27.515Z",
   "created_by": "MauAg1985",
-  "updated_at": "2026-01-06T17:28:27.515Z",
-  "updated_by": "MauAg1985"
+  "updated_at": "2026-01-26T18:25:19.727Z",
+  "updated_by": "tanyaclement",
+  "av_file_order": [
+    "471cb937-b6f4-45e3-a9c5-4d4982396085"
+  ]
 }
