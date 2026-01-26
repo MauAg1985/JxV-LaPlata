@@ -4,7 +4,80 @@
       "type": "heading-two",
       "children": [
         {
-          "text": "Paragraph of explanation"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "heading-two",
+              "children": [
+                {
+                  "text": "Paragraph of explanation"
+                }
+              ]
+            },
+            {
+              "type": "heading-two",
+              "children": [
+                {
+                  "text": "Start with "
+                },
+                {
+                  "type": "link",
+                  "url": "https://mauag1985.github.io/JxV-LaPlata/tags/",
+                  "children": [
+                    {
+                      "text": "this page"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2018/08/bananas-1354785_1920.jpg",
+              "caption": "this is a picture of bananas",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -12,14 +85,7 @@
       "type": "heading-two",
       "children": [
         {
-          "text": "Start with "
-        },
-        {
-          "text": "this page",
-          "link": "https://mauag1985.github.io/JxV-LaPlata/tags/"
-        },
-        {
-          "text": "."
+          "text": ""
         }
       ]
     },
@@ -59,7 +125,7 @@
   "created_at": "2025-05-09T23:35:37.084Z",
   "created_by": "MauAg1985",
   "title": "Juicios por la Verdad La Plata (1999-2010)",
-  "updated_at": "2026-01-26T18:19:36.803Z",
+  "updated_at": "2026-01-26T18:30:09.495Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
