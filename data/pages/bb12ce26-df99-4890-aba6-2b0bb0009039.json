@@ -22,7 +22,37 @@
               "type": "heading-two",
               "children": [
                 {
-                  "text": "Paragraph of explanation"
+                  "text": "Cómo usar esta página"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Esta página ofrece una interfaz de búsqueda temática para explorar los materiales audiovisuales de audiencias públicas realizadas a lo largo de más de diez años que constituyen la colección JUICIOS POR LA VERDAD - LA PLATA. Para proteger el contenido sensible de estos materiales, "
+                },
+                {
+                  "text": "ni los videos ni sus transcripciones están disponibles aquí",
+                  "bold": true
+                },
+                {
+                  "text": ". Esta página constituye la primera capa de un "
+                },
+                {
+                  "text": "sistema de acceso escalonado",
+                  "bold": true
+                },
+                {
+                  "text": ": los usuarios pueden navegar y consultar los temas que se abordan en los registros audiovisuales. Una vez que se identifican momentos o materiales específicos de interés, los usuarios pueden contactar a "
+                },
+                {
+                  "text": "Memoria Abierta",
+                  "bold": true,
+                  "link": "https://memoriaabierta.org.ar/wp/"
+                },
+                {
+                  "text": ", la institución que custodia los materiales, para solicitar acceso. Las solicitudes requieren identificación del usuario y una explicación clara del propósito para el cual se utilizarán los materiales.\n"
                 }
               ]
             },
@@ -30,14 +60,14 @@
               "type": "heading-two",
               "children": [
                 {
-                  "text": "Start with "
+                  "text": "Puede empezar su búsqueda a través de "
                 },
                 {
                   "type": "link",
                   "url": "https://mauag1985.github.io/JxV-LaPlata/tags/",
                   "children": [
                     {
-                      "text": "this page"
+                      "text": "esta página"
                     }
                   ]
                 },
@@ -61,8 +91,16 @@
             },
             {
               "type": "image",
-              "url": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2018/08/bananas-1354785_1920.jpg",
-              "caption": "this is a picture of bananas",
+              "url": "https://memoriaabierta.org.ar/wp/wp-content/uploads/2018/05/ZonaNorte.png",
+              "caption": "Marcha para el esclarecimiento de violaciones a los DDHH",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
@@ -77,7 +115,11 @@
                 }
               ]
             }
-          ]
+          ],
+          "right": 0,
+          "left": 0,
+          "top": 0,
+          "bottom": 0
         }
       ]
     },
@@ -125,8 +167,8 @@
   "created_at": "2025-05-09T23:35:37.084Z",
   "created_by": "MauAg1985",
   "title": "Juicios por la Verdad La Plata (1999-2010)",
-  "updated_at": "2026-01-26T18:30:09.495Z",
-  "updated_by": "tanyaclement",
+  "updated_at": "2026-01-27T01:06:50.856Z",
+  "updated_by": "MauAg1985",
   "autogenerate": {
     "enabled": false,
     "type": "home"
